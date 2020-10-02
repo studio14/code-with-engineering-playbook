@@ -1,7 +1,5 @@
 # Studio 14 Engineering Playbook
 
-An engineer working for a [CSE](./CSE.md) project...
-
 * Has responsibilities to their team – mentor, coach, and lead.
 * Knows their **playbook**. Follows their playbook. Fixes their playbook if it is broken. If they find a better playbook, they copy it. If somebody could use your playbook, give them yours.
 * Leads by example. Models the behaviors we desire both interpersonally and technically.
