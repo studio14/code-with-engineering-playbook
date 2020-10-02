@@ -189,16 +189,6 @@ implications and risks associated with heavy usage of mocks.
 
 To see if mocking is right for your project, or if a mock-free approach is more appropriate, see the page on [mocking](mocking.md).
 
-### Tools
-
-These tools allow for constant running of your unit tests with in-line code coverage, making the dev inner loop
-extremely fast and allows for easy TDD:
-
-- [Visual Studio Live Unit Testing](https://docs.microsoft.com/en-us/visualstudio/test/live-unit-testing-intro?view=vs-2019)
-- [Wallaby.js](https://wallabyjs.com/)
-- [Infinitest](http://infinitest.github.io/) for Java
-- [PyCrunch](https://plugins.jetbrains.com/plugin/13264-pycrunch--live-testing) for Python
-
 ## Conclusion
 
 Unit testing is extremely important, but it is also not the silver bullet; having proper unit tests is just a part of a
