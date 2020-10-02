@@ -15,8 +15,7 @@ their own, and adjust times, communication channels, branch naming policies etc.
 - We make sure everyone's voice is heard, listened to
 - We show all team members equal respect
 - We pair-program as often as possible
-- We make sure to spread our expertise and skills in the team, so no single person is relied on for one skill
-- All times below are listed in CET
+- When possible, we make sure to spread our expertise and skills in the team, so no single person is relied on for one skill
 
 ## Communication
 
@@ -35,7 +34,7 @@ their own, and adjust times, communication channels, branch naming policies etc.
 - We agree on a [Definition of Done](../definition-of-done/readme.md) for our user story's and sprints and live by it.
 - We follow engineering best practices like the [Code With Engineering Playbook](https://github.com/microsoft/code-with-engineering-playbook)
 
-## Scrum rhythm
+## A Sample Scrum rhythm
 
 | Activity | When | Duration | Who | Accountable | Goal |
 |-|-|-|-|-|-|
