@@ -15,7 +15,6 @@ Code reviews should use the below guidance and checklists to ensure positive and
 
 - Read every line changed.
 - If we have a stakeholder review, it’s not necessary to run the PR unless it aids your understanding of the code.
-- AzDO orders the files for you, but you should read the code in some logical sequence to aid understanding.
 - If you don’t fully understand a change in a file because you don’t have context, click to view the whole file and read through the surrounding code or checkout the changes and view them in IDE.
 - Ask the author to clarify.
 
